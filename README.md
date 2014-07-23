@@ -6,6 +6,7 @@ Summer 2013 Intern / Winter 2014 Employee
 As a tech intern at Readorium by ©Mtelegence Corporation, I worked with a team of two people to redesign the flash-based Emporium from scratch to make it conform to the next-generation HTML5 standards. Using the Construct 2 game engine, my team made the website fully compatible for iOS platforms. The following pictures show the Emporium in HTML5: 
 
 ![alt tag](./ReadoriumScreenshots/Emporium.png)
+<<<<<<< HEAD
 
 The sprites were animated using the Construct 2 game engine, and some of the artwork, such as the castle in the picture above, was designed by me. 
 
@@ -35,3 +36,5 @@ These are other screenshots of the website depicting the Video Vendor, where chi
 ![alt tag](./RisingReaderScreenshots/Books.png)
 
 Thank you for taking interest in this project. Since the source code for this website is property of ©Mtelegence Corporation, I cannot disclose it on GitHub. If you have any further questions, please feel free to email me at zahramahmood@college.harvard.edu
+=======
+>>>>>>> FETCH_HEAD
