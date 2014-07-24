@@ -28,7 +28,7 @@ The picture above shows the library as the website shifted focus to a more strea
 The Emporium was replaced from the sprite-based system with a block-like theme, to a more visually dynamic Emporium. 
 
 
-These are other screenshots of the website depicting the Video Vendor, where children can access videos to support their reading, and the book threads where they can read the books. I contributed to the writing of these books, having authored three books myself. 
+These are other screenshots of the website depicting the Video Vendor, where children can access videos to support their reading, and the book threads where they can read the books. I contributed to the writing of these books, having authored two books and several articles. 
 
 ![alt tag](./RisingReaderScreenshots/videoVendor.png)
 
